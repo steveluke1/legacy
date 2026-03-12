@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Prevent UA light flash and enforce dark surface */
+:root {
+  color-scheme: dark;
+  background-color: #05070B;
+  /* Custom properties from original file, now directly in :root */
+  --bg-main: #05070B;
+  --bg-panel: #0C121C;
+  --accent-primary: #19E0FF;
+  --accent-secondary: #0097d8;
+  --accent-danger: #FF4B6A;
+  --accent-honor: #F7CE46;
+  --accent-legendary: #FFD700;
+  --text-primary: #FFFFFF;
+  --text-muted: #A9B2C7;
+  --crystal-bronze: #CD7F32;
+  --crystal-silver: #C0C0C0;
+  --crystal-obsidian: #4A0E4E;
+  --crystal-platinum: #E5E4E2;
+  --crystal-legendary: #FFD700;
+}
+
+/* Ensure the page background is dark before React mounts */
+html, body, #root {
+  height: 100%;
+  min-height: 100%;
+  background: #05070B;
+  margin: 0;
+}
+
+/* Optional: smoother text rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--text-primary); /* Preserved from original body style */
+}
