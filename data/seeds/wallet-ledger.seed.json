@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ledger_1",
+    "userId": "user_demo_buyer",
+    "type": "credit",
+    "currency": "cash",
+    "amount": 42000,
+    "description": "Saldo inicial local",
+    "createdAt": "2026-03-12T10:00:00.000Z"
+  },
+  {
+    "id": "ledger_2",
+    "userId": "user_demo_seller",
+    "type": "credit",
+    "currency": "alz",
+    "amount": 124000,
+    "description": "Estoque inicial para marketplace",
+    "createdAt": "2026-03-12T10:05:00.000Z"
+  }
+]

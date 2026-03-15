@@ -1,0 +1,98 @@
+{
+  "power": [
+    {
+      "position": 1,
+      "characterId": "char_seller_blade",
+      "characterName": "Blade Vesper",
+      "classCode": "BL",
+      "guildName": "Apocalypse",
+      "battlePower": 986420,
+      "weeklyKills": 18,
+      "weeklyRuns": 9
+    },
+    {
+      "position": 2,
+      "characterId": "char_buyer_mage",
+      "characterName": "Astra Lyra",
+      "classCode": "WI",
+      "guildName": "Phoenix",
+      "battlePower": 942180,
+      "weeklyKills": 11,
+      "weeklyRuns": 13
+    },
+    {
+      "position": 3,
+      "characterId": "char_neutral_guard",
+      "characterName": "Iron Tiber",
+      "classCode": "FS",
+      "guildName": "Legends",
+      "battlePower": 891340,
+      "weeklyKills": 9,
+      "weeklyRuns": 7
+    }
+  ],
+  "weeklyKillers": [
+    {
+      "position": 1,
+      "characterId": "char_seller_blade",
+      "characterName": "Blade Vesper",
+      "classCode": "BL",
+      "guildName": "Apocalypse",
+      "battlePower": 986420,
+      "weeklyKills": 18,
+      "weeklyRuns": 9
+    },
+    {
+      "position": 2,
+      "characterId": "char_buyer_mage",
+      "characterName": "Astra Lyra",
+      "classCode": "WI",
+      "guildName": "Phoenix",
+      "battlePower": 942180,
+      "weeklyKills": 11,
+      "weeklyRuns": 13
+    },
+    {
+      "position": 3,
+      "characterId": "char_neutral_guard",
+      "characterName": "Iron Tiber",
+      "classCode": "FS",
+      "guildName": "Legends",
+      "battlePower": 891340,
+      "weeklyKills": 9,
+      "weeklyRuns": 7
+    }
+  ],
+  "weeklyRunners": [
+    {
+      "position": 1,
+      "characterId": "char_buyer_mage",
+      "characterName": "Astra Lyra",
+      "classCode": "WI",
+      "guildName": "Phoenix",
+      "battlePower": 942180,
+      "weeklyKills": 11,
+      "weeklyRuns": 13
+    },
+    {
+      "position": 2,
+      "characterId": "char_seller_blade",
+      "characterName": "Blade Vesper",
+      "classCode": "BL",
+      "guildName": "Apocalypse",
+      "battlePower": 986420,
+      "weeklyKills": 18,
+      "weeklyRuns": 9
+    },
+    {
+      "position": 3,
+      "characterId": "char_neutral_guard",
+      "characterName": "Iron Tiber",
+      "classCode": "FS",
+      "guildName": "Legends",
+      "battlePower": 891340,
+      "weeklyKills": 9,
+      "weeklyRuns": 7
+    }
+  ]
+}

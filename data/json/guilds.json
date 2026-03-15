@@ -1,0 +1,35 @@
+[
+  {
+    "id": "guild_apocalypse",
+    "slug": "apocalypse",
+    "name": "Apocalypse",
+    "faction": "Procyon",
+    "level": 12,
+    "memberCount": 98,
+    "recruiting": true,
+    "description": "Guilda ofensiva focada em poder bruto, guerra e dom?nio de spot.",
+    "leaderCharacterId": "char_seller_blade"
+  },
+  {
+    "id": "guild_phoenix",
+    "slug": "phoenix",
+    "name": "Phoenix",
+    "faction": "Capella",
+    "level": 11,
+    "memberCount": 93,
+    "recruiting": true,
+    "description": "Grupo de progress?o com foco em dungeon, reset controlado e execu??o limpa.",
+    "leaderCharacterId": "char_buyer_mage"
+  },
+  {
+    "id": "guild_legends",
+    "slug": "legends",
+    "name": "Legends",
+    "faction": "Procyon",
+    "level": 9,
+    "memberCount": 71,
+    "recruiting": false,
+    "description": "N?cleo veterano, enxuto e est?vel para endgame local.",
+    "leaderCharacterId": "char_neutral_guard"
+  }
+]

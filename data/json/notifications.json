@@ -1,0 +1,29 @@
+[
+  {
+    "id": "notif_1",
+    "userId": "user_demo_buyer",
+    "title": "Compra pronta para validar",
+    "body": "Existe uma oferta aberta de 20k ALZ para testar o fluxo local do marketplace.",
+    "kind": "order",
+    "readAt": null,
+    "createdAt": "2026-03-12T10:20:00.000Z"
+  },
+  {
+    "id": "notif_2",
+    "userId": "user_demo_buyer",
+    "title": "Premium Silver ativo",
+    "body": "Sua conta local j? come?a com n?vel Silver para validar a renderiza??o da loja.",
+    "kind": "shop",
+    "readAt": null,
+    "createdAt": "2026-03-12T10:25:00.000Z"
+  },
+  {
+    "id": "notif_3",
+    "userId": "user_demo_seller",
+    "title": "Perfil de vendedor carregado",
+    "body": "Seu perfil foi provisionado com estoque de ALZ para testes locais.",
+    "kind": "wallet",
+    "readAt": null,
+    "createdAt": "2026-03-12T10:30:00.000Z"
+  }
+]

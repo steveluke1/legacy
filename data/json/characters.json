@@ -1,0 +1,90 @@
+[
+  {
+    "id": "char_seller_blade",
+    "name": "Blade Vesper",
+    "classCode": "BL",
+    "level": 200,
+    "nation": "Procyon",
+    "guildId": "guild_apocalypse",
+    "guildName": "Apocalypse",
+    "ownerUserId": "user_demo_seller",
+    "battlePower": 986420,
+    "honorLevel": 20,
+    "headline": "Seller principal do marketplace local.",
+    "biography": "Build focada em burst, liquida??o r?pida e farming de ALZ em alto giro.",
+    "stats": {
+      "attack": 552000,
+      "defense": 441200,
+      "criticalRate": 68,
+      "accuracy": 91
+    },
+    "achievements": [
+      "Top 1 Power",
+      "Seller Verificado",
+      "Weekly Killer"
+    ],
+    "activitySummary": {
+      "weeklyKills": 18,
+      "weeklyRuns": 9,
+      "lastSeenAt": "2026-03-12T08:30:00.000Z"
+    }
+  },
+  {
+    "id": "char_buyer_mage",
+    "name": "Astra Lyra",
+    "classCode": "WI",
+    "level": 197,
+    "nation": "Capella",
+    "guildId": "guild_phoenix",
+    "guildName": "Phoenix",
+    "ownerUserId": "user_demo_buyer",
+    "battlePower": 942180,
+    "honorLevel": 17,
+    "headline": "Buyer premium com caixa alta para teste local.",
+    "biography": "Perfil usado para validar compra, notifica??o e liquida??o do fluxo ALZ.",
+    "stats": {
+      "attack": 528100,
+      "defense": 420180,
+      "criticalRate": 57,
+      "accuracy": 94
+    },
+    "achievements": [
+      "Top 2 Power",
+      "Weekly Runner"
+    ],
+    "activitySummary": {
+      "weeklyKills": 11,
+      "weeklyRuns": 13,
+      "lastSeenAt": "2026-03-12T07:40:00.000Z"
+    }
+  },
+  {
+    "id": "char_neutral_guard",
+    "name": "Iron Tiber",
+    "classCode": "FS",
+    "level": 193,
+    "nation": "Procyon",
+    "guildId": "guild_legends",
+    "guildName": "Legends",
+    "ownerUserId": "user_demo_neutral",
+    "battlePower": 891340,
+    "honorLevel": 15,
+    "headline": "Perfil neutro para leitura e navega??o do dom?nio personagem.",
+    "biography": "Tanque de refer?ncia usado para detalhe de guilda e p?gina de personagem.",
+    "stats": {
+      "attack": 498780,
+      "defense": 401340,
+      "criticalRate": 31,
+      "accuracy": 83
+    },
+    "achievements": [
+      "Guardian",
+      "Top 3 Power"
+    ],
+    "activitySummary": {
+      "weeklyKills": 9,
+      "weeklyRuns": 7,
+      "lastSeenAt": "2026-03-11T23:15:00.000Z"
+    }
+  }
+]

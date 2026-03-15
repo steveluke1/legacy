@@ -1,18 +1,8 @@
-import { expect, test } from "@playwright/test";
+﻿import { expect, test } from "@playwright/test";
 
-test("home route responds and mounts the app shell", async ({ page }) => {
-  const consoleErrors: string[] = [];
-
-  page.on("pageerror", (error) => {
-    consoleErrors.push(error.message);
-  });
-
+test("renders the migrated public home page", async ({ page }) => {
   await page.goto("/");
-
-  await expect(page.locator("#root")).toBeVisible();
-
-  expect(
-    consoleErrors,
-    `Unexpected runtime errors while loading "/":\n${consoleErrors.join("\n")}`
-  ).toEqual([]);
+  await expect(page.getByRole("heading", { name: "Cabal Legacy", exact: true })).toBeVisible();
+  await expect(page.getByRole("heading", { name: /Conquistas Históricas/i })).toBeVisible();
+  await expect(page.getByRole("navigation").getByRole("link", { name: /^Mercado$/i })).toBeVisible();
 });

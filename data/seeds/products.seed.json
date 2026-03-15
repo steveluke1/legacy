@@ -1,0 +1,65 @@
+{
+  "premiumPlans": [
+    {
+      "id": "premium_bronze",
+      "name": "Premium Bronze",
+      "priceCash": 4900,
+      "durationDays": 30,
+      "perks": [
+        "Teleportes rapidos",
+        "Fila preferencial",
+        "Cor exclusiva no chat"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "id": "premium_silver",
+      "name": "Premium Silver",
+      "priceCash": 8900,
+      "durationDays": 30,
+      "perks": [
+        "Teleportes rapidos",
+        "Fila preferencial",
+        "Boost leve de drop",
+        "Slot extra"
+      ],
+      "tier": "silver"
+    },
+    {
+      "id": "premium_gold",
+      "name": "Premium Gold",
+      "priceCash": 13900,
+      "durationDays": 30,
+      "perks": [
+        "Fila maxima",
+        "Boost de drop",
+        "Badge dourada",
+        "Inventario adicional"
+      ],
+      "tier": "gold"
+    }
+  ],
+  "catalog": [
+    {
+      "id": "box_yul",
+      "name": "Caixa de Yul",
+      "description": "Caixa utilit?ria local com recompensa controlada.",
+      "priceCash": 1500,
+      "category": "box"
+    },
+    {
+      "id": "extensor_inv",
+      "name": "Extensor de Inventario",
+      "description": "Melhoria de qualidade de vida para sua conta.",
+      "priceCash": 2200,
+      "category": "utility"
+    },
+    {
+      "id": "badge_archon",
+      "name": "Badge Archon",
+      "description": "Cosm?tico para sinalizar um perfil veterano.",
+      "priceCash": 900,
+      "category": "cosmetic"
+    }
+  ]
+}

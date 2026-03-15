@@ -1,0 +1,13 @@
+[
+  {
+    "id": "session_user_9f1092c3-5223-4383-9dda-b4d637dea5b7",
+    "tokenHash": "W8aoWvlxELiefi0q-BiheZP592B2iyaVcEG--CC9EA0",
+    "subjectId": "user_demo_buyer",
+    "role": "user",
+    "issuedAt": "2026-03-15T02:20:13.591Z",
+    "expiresAt": "2026-03-22T02:20:13.591Z",
+    "revokedAt": null,
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+  }
+]

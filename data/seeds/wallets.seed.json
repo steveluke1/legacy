@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "user_demo_buyer",
+    "cashBalance": 42000,
+    "alzBalance": 1900,
+    "premiumTier": "silver",
+    "updatedAt": "2026-03-12T10:00:00.000Z"
+  },
+  {
+    "userId": "user_demo_seller",
+    "cashBalance": 18000,
+    "alzBalance": 124000,
+    "premiumTier": "gold",
+    "updatedAt": "2026-03-12T10:00:00.000Z"
+  },
+  {
+    "userId": "user_demo_neutral",
+    "cashBalance": 9000,
+    "alzBalance": 8500,
+    "premiumTier": "none",
+    "updatedAt": "2026-03-12T10:00:00.000Z"
+  }
+]

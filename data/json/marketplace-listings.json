@@ -1,0 +1,26 @@
+[
+  {
+    "id": "listing_alz_1",
+    "sellerUserId": "user_demo_seller",
+    "sellerCharacterId": "char_seller_blade",
+    "sellerName": "Blade Vesper",
+    "title": "Pacote rapido 20k ALZ",
+    "description": "Entrega local imediata para fluxo de compra determin?stico.",
+    "unitPriceBrl": 0.028,
+    "alzAmount": 20000,
+    "status": "open",
+    "createdAt": "2026-03-12T09:00:00.000Z"
+  },
+  {
+    "id": "listing_alz_2",
+    "sellerUserId": "user_demo_seller",
+    "sellerCharacterId": "char_seller_blade",
+    "sellerName": "Blade Vesper",
+    "title": "Lote premium 50k ALZ",
+    "description": "Oferta para contas locais com saldo BRL simulado mais alto.",
+    "unitPriceBrl": 0.025,
+    "alzAmount": 50000,
+    "status": "open",
+    "createdAt": "2026-03-12T09:15:00.000Z"
+  }
+]

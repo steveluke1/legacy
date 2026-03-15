@@ -1,0 +1,23 @@
+[
+  {
+    "id": "admin_demo_primary",
+    "email": "admin@legacy.local",
+    "displayName": "Admin Demo",
+    "passwordHash": "scrypt$admin-primary-salt$jQLAnrh5_N76OcF_n7EtbvQUYnSiQRlK7wCE2EsRrOMz3KIZ_skIphGOWA1x-31aS9ygPD3K9UeTrF4vsj5ZKg",
+    "status": "active",
+    "role": "admin",
+    "permissions": [
+      "dashboard:read",
+      "accounts:read",
+      "accounts:write",
+      "orders:read",
+      "disputes:read",
+      "disputes:resolve",
+      "market:write"
+    ],
+    "createdAt": "2026-03-12T09:30:00.000Z",
+    "updatedAt": "2026-03-12T09:30:00.000Z",
+    "lastLoginAt": null,
+    "passwordUpdatedAt": "2026-03-12T09:30:00.000Z"
+  }
+]

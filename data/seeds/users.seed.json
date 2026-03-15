@@ -1,0 +1,41 @@
+[
+  {
+    "id": "user_demo_buyer",
+    "email": "buyer@legacy.local",
+    "username": "buyer_demo",
+    "displayName": "Buyer Demo",
+    "passwordHash": "scrypt$user-buyer-salt$ZEj7OxdGBqp0pE7xm8s4p67EEL2FeNyvvAQ4TTtqRFxJVcTh5lZBc-w4oOiq1nRz_LlLZX1blGLRZWSCQs_JaA",
+    "status": "active",
+    "role": "user",
+    "createdAt": "2026-03-12T10:00:00.000Z",
+    "updatedAt": "2026-03-12T10:00:00.000Z",
+    "lastLoginAt": null,
+    "passwordUpdatedAt": "2026-03-12T10:00:00.000Z"
+  },
+  {
+    "id": "user_demo_seller",
+    "email": "seller@legacy.local",
+    "username": "seller_demo",
+    "displayName": "Seller Demo",
+    "passwordHash": "scrypt$user-seller-salt$ZSAFGxePB3dWlMbtStVoZHJNV2CkUfbxf6oENmThP7eShQm6S1nGZ8aOvC9ZRvpxbaGE-zC_PwO9Ra2dmYREZg",
+    "status": "active",
+    "role": "user",
+    "createdAt": "2026-03-12T10:05:00.000Z",
+    "updatedAt": "2026-03-12T10:05:00.000Z",
+    "lastLoginAt": null,
+    "passwordUpdatedAt": "2026-03-12T10:05:00.000Z"
+  },
+  {
+    "id": "user_demo_neutral",
+    "email": "neutral@legacy.local",
+    "username": "neutral_demo",
+    "displayName": "Neutral Demo",
+    "passwordHash": "scrypt$user-neutral-salt$cCaKn7qFfKYwVzYHy9pmKcGIvo0BNPVmqvAc1vw30p6O1pOK7JoWHjnXVApwseMv6xGUXf2qcA-Uv81Utb53Qw",
+    "status": "active",
+    "role": "user",
+    "createdAt": "2026-03-12T10:10:00.000Z",
+    "updatedAt": "2026-03-12T10:10:00.000Z",
+    "lastLoginAt": null,
+    "passwordUpdatedAt": "2026-03-12T10:10:00.000Z"
+  }
+]

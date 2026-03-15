@@ -1,0 +1,18 @@
+﻿{
+  "heroTitle": "Private CABAL Online Server",
+  "heroSubtitle": "Challenging dungeons, competitive PvP e TG ranqueado em uma experiência clássica do portal.",
+  "highlights": [
+    {
+      "title": "Portal local estável",
+      "description": "Conta, rankings, guildas, loja, mercado ALZ e painel administrativo no mesmo fluxo local."
+    },
+    {
+      "title": "Núcleo competitivo",
+      "description": "Masmorras, PvP e status do servidor apresentados com a identidade clássica do portal."
+    },
+    {
+      "title": "Operação enxuta",
+      "description": "Sem dependências funcionais externas e com dados locais consistentes para testes e uso diário."
+    }
+  ]
+}
